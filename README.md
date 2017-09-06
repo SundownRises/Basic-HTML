@@ -2,7 +2,7 @@
 <!--These are new visual basic (VB) codes and HTML codes.-->
 <HTML>
 <head>
-<title>font</title>
+Fonts
 </head>
 <body bgcolor = greenyellow text blue>
 <font color = magenta>
